@@ -59,7 +59,7 @@
     transform: scale(0.2) translate(var(--tx), var(--ty));
     opacity: 0;
   }
-}
+} 
 
 .chat-message {
   animation: fadeInUp 0.3s ease-out;
